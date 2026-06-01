@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import ServicesCard from "./components/ServicesCard";
 import SocialSection from "./components/SocialSection";
 import Footer from "./components/Footer";
-import PDFButton from "./components/PDFButton";
+// import PDFButton from "./components/PDFButton";
 import {
   FaPhoneAlt,
   FaWhatsapp,
@@ -160,7 +160,7 @@ function App() {
 
 <SocialSection />
 <Footer />
-<PDFButton />
+{/* <PDFButton /> */}
  </div>
     </div>
     
